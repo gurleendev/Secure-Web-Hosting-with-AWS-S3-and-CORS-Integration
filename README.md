@@ -1,4 +1,4 @@
-<h1>Secure-Web-Hosting-with-AWS-S3-and-CORS-Integration-</h1>
+<h1>Secure Web-Hosting with AWS S3 and CORS Integration </h1>
 
 <h2>Description</h2>
 
